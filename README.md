@@ -1,2 +1,0 @@
-# Bichosoft
-Site web Bichosoft
